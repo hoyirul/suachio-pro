@@ -1,0 +1,12 @@
+# Direktori dan file yang akan diabaikan oleh Git
+
+# Node.js dependencies
+node_modules/
+
+# Output dari build Tailwind CSS
+/dist/
+/build/
+
+# Cache dan file konfigurasi Tailwind CSS
+.cache/
+.tailwindcss-config.js.cache
